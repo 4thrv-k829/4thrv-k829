@@ -3,6 +3,8 @@
 
 - 📫 How to reach me **atharvakassa01@gmail.com**
 
+---
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/atharva-kassa-3226b733b/" target="_blank" rel="noreferrer">
@@ -15,6 +17,8 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/atharvakassa01" height="30" width="40" />
   </a>
 </p>
+
+---
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -39,8 +43,8 @@
 </div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=athrvk829&amp;show_icons=true&amp;theme=dark&amp;hide_border=true" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=athrvk829&amp;layout=compact&amp;theme=dark&amp;hide_border=true" alt="Top Languages" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=athrvk829&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=athrvk829&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="160"/>
 </p>
 
 <div align="center">
