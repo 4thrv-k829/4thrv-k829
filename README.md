@@ -38,12 +38,10 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180" width="400" loading="lazy"
-      src="https://github-readme-stats-sigma-five.vercel.app/api?username=athrvk829&show_icons=true&theme=dark&hide_border=true" />
+    <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=athrvk829&show_icons=true&theme=dark&hide_border=true" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180" width="400" loading="lazy"
-      src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=athrvk829&layout=compact&theme=dark&hide_border=true" />
+    <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=athrvk829&layout=compact&theme=dark&hide_border=true" />
   </a>
 </p>
 
